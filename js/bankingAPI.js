@@ -1,6 +1,6 @@
 /*
- * @author : Alexis Chretienne
- * @email : alexis.chretienne@fr.ibm.com
+ * @author : bandi vinod
+ * @email : bandivinod2000@gmail.com
  * 
  * Sample code allowing to understand how to code API in Javascript
  * 
@@ -11,17 +11,16 @@
 var url_api_devloper_portal = "https://api.us.apiconnect.ibmcloud.com/spbodieusibmcom-prod/developer-contest/mplbank";
 
 /*
- * A customer ID. Please go to
- * https://github.com/IBM/Banking-digitalization-using-hybrid-cloud-with-zSystem/tree/master/identifier
+ * A customer ID.
  * to choose one among 1000 customer IDs.
  */
 var customerID = "136949483580422232";
 
 // Your API ClientID
-var IBM_CLIENT_ID = "YOUR_CLIENT_ID_HERE";
+var IBM_CLIENT_ID = "1234567890";
 
 // Your API ClientSecret
-var IBM_CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE";
+var IBM_CLIENT_SECRET = "123456789";
 
 /*
  * JQUERY ready
