@@ -14,7 +14,7 @@ var url_api_devloper_portal = "https://api.us.apiconnect.ibmcloud.com/spbodieusi
  * A customer ID.
  * to choose one among 1000 customer IDs.
  */
-var customerID = "136949483580422232";
+var customerID = "117549483579438316";
 
 // Your API ClientID
 var IBM_CLIENT_ID = "you enter client ";
