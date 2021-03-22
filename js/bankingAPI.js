@@ -4,7 +4,7 @@
  * 
  * Sample code allowing to understand how to code API in Javascript
  * 
- * @doc : https://github.com/IBM/Banking-digitalization-using-hybrid-cloud-with-zSystem
+ * 
  */
 
 //The API Developer Portal URL
